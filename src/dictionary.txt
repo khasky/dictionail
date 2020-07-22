@@ -1,0 +1,799 @@
+insects+насекомые
+ostriches+страусы
+parrot+папугай
+hamster+хомяк
+bumblebee+шмель
+goose+гусь
+poultry+домашняя птица, живность
+calf+теленок, икра ноги
+calves+икры, лодыжки
+chops+челюсти
+booth+будка
+mandatory+обязательно, обязательные
+preferred+предпочтительно, предпочтительные
+competitive+конкурентноспособный
+participation+участие
+duties+обязанности
+obligations+обязательства
+commitment+обязательство, заключение под стражу
+ensure+гарантировать, обеспечивать
+deliverables+практические результаты
+coach+тренировать, тренер
+maintain+поддерживать, держать в исправности
+malfunction+неисправность
+contribution+вклад
+agile development+быстрая разработка
+doable+выполнимый
+compatibility+совместимость
+virility+мужественность
+appreciation+признательность, благоприятный отзыв
+assumption+предположение, допущение
+inlining+встраивание
+frustration+разочарование
+boundary+граница, пограничный, черта
+abroad+за границей
+overseas+за границей, за морем
+complimentary+бесплатный, похвальный, поздравительный
+collaborate+сотрудничать
+troubleshoot+устранение проблем (устранять)
+annoying+раздражающий, раздражение
+recurring, repetetive+повторяющийся
+serving+отбывание, порция, что-либо для подачи
+spread+распространение, распространять
+sales representatives+торговые представители
+obscenity+непристойность, ругательство
+struggle+борьба, бороться
+quirk+бзик, причуда, выкрутасы, высмеивать(v)
+ongoing+постоянный, непрерывный, происходящий в настоящее время
+valuable+ценный, полезный
+mutual+взаимный
+pertinent+уместный
+beneficial+выгодный
+huge+огромный
+considerable+значительный, немалый
+dense+плотный, дремучий, недогадливый
+verbal+словесный
+passionate about+страсть к
+clarify+прояснять
+clarification+осветление, прояснение
+estimate+оценивать
+bending+гнуть, крутить, подгонять
+refine+повышать качество, делать более утонченным
+several+несколько
+qualifies+квалифицируется
+zeal+усердный, усердие
+wise+мудрый
+upcoming+предстоящий, развивающийся, идущий вперед
+widespread+широко распространенный
+fiddling+пустяковый, бесполезный
+jet-power+реактивный
+woozy+ошалевший, окосевший
+recognized+признанный
+ridiculous+смехотворный, смешной
+utilising+использующий
+crucial+ключевой
+worst+наихудший
+appalling+ужасающий
+tremendous+потрясающий
+best, finest+лучший
+excess+лишний, избыточный
+finite+конечный, ограниченный
+infinite+бесконечный, безграничный
+comprehensive+комплексный, всесторонний, исчерпывающий
+exhaustive+исчерпывающий
+obsessive+навязчивый
+responsible+ответственный, несущий ответственность
+attractive+привлекательный
+royalty-free+безвозмездный
+paid-up+оплаченный
+irrevocable+безповоротный, безвозвратный
+perpetual+бессрочный
+inhuman+бесчеловечный, нечеловеческий
+accountable+подотчетный, ответственный
+insidious+коварный, подстерегающий
+treacherous+вероломный, предательский
+pale+бледный
+rotten+гнилой
+eager+нетерпеливый, стремящийся, сильно желающий
+appropriate+соответствующий, подходящий
+brood+племенной, выводок
+prevailing+преобладающий
+honest+честный
+jelous+ревнивый
+convincing, persuasive+убедительный
+restless+беспокойный, неугомонный
+incredible+невероятный, неимоверный
+unintended+непреднамеренный
+broke+без денег, разоренный
+pretty big+довольно большой
+special occasion+особый случай (повод)
+roasted+жаренный
+impersonal+безличный
+conjugate+сопряженный, парный
+ordinary+обычный, обыкновенный
+suspect+подозреваемый (подозревать)
+consistent+последовательный, совместимый
+scripted+подготовленный по сценарию
+arousing+возбуждающий, будоражащий
+handheld+портативный, ручной
+jaded+измученный
+upset+расстроенный, грустный
+former+бывший
+acquainted+знакомый
+sacred+священный
+bloated+раздутый
+bloat+раздуваться, пухнуть
+bound+связанный
+casual+повседневный, временный рабочий, случайный посетитель
+breezy+свежий, веселый, живой
+lethargic+вялый, сонный
+nasty+противный, неприятный
+combative+воинственный, боевой
+xenophobic+ненавидящий иностранцев
+humiliated+униженный
+sincere+искренний
+soulful+душевный
+genuine+подлинный, истинный
+concise+краткий, сжатый
+yelled+скандируемый
+digested+переваренный, усвоенный
+abandoned+заброшенный
+insecure+небезопасный
+complicated+усложненный, сложный, запутанный
+well-established+устоявшихся
+sustainable+устойчивый, поддерживаемый
+lush+пышный
+opted+выбранный
+enormous+громадный
+noticeable+заметный, приметный
+meaningful+многозначимый
+unabstracted+рассеянный, отдаленный
+intrinsic+присущий, свойственный
+extrinsic+неприсущий, несвойственный
+interstellar+межзвездный
+headless+обезглавленный, безголовый
+sassy+нахальный
+injured+пострадавший, травмированный
+boilerplate+шаблонный
+bulletproof+пуленепробиваемый
+error-prone+подверженный ошибкам
+adjacent+смежный
+miserable+несчастный
+clumsy+неуклюжий
+dogged+упрямый
+dogged by+преследуемый
+inherent+присущий, свойственный
+proud+гордый
+obsessive+навязчивый
+intrusive+назойливый
+envious+завистливый
+submissive+покорный
+obedient+послушный
+modest+скромный
+humiliated+униженный
+shy+застенчивый
+devastated+опустошенный
+unaltered, immutable+неизменный
+incredulous, distrustful+недоверчивый
+tacky+обшарпанный
+sticky+липкий, липучий
+robust+здравый, крепкий
+convenient+удобный
+designated+назначенный
+superfluous+излишний
+anticipated+ожидаемый, предполагаемый
+wrongful+противоправный, незаконный
+proprietary+патентованный
+testifying+свидетельствующий
+conceived+понятный
+innermost, inmost+глубочайщий, самый сокровенный
+unsuitable+неподходящий
+inappropriate+несоответствующий
+profitable+выгодный, прибыльный
+unrelated+несвязанный
+mucky+противный
+compulsory+принудительный
+generous+щедрый
+fluent+беглый
+rough+грубый, черновой
+gathered+скопленный, собранный
+planted+посаженный, засаженный
+magnificent+великолепный
+splendid+роскошный
+cheap+дешевый
+inexpensive+недорогой
+domestic+отечественный, домашний, бытовой
+auxiliary+вспомогательный
+distinct+отчетливый, отличный от
+bittersweet+горько-сладкий
+weightless+невесомый
+curious+любопытный
+gutless+безвольный
+embracing+охватывающий, обнимающий
+indisputable+бесспорный, неоспоримый
+befitting+подходящий
+gorgeous+великолепный, прекрасный
+bare+голый, неизолированный
+augmented+дополненный
+outstanding+выдающийся
+faint+слабый
+curious+любопытный
+motionless+неподвижный
+bored+скучный
+particular+особый, специфический
+authentic+подлинный, достоверный
+adequate+адекватный
+accountable+подотчетный, ответственный
+nonexclusive+неисключительный
+tough+жесткий, жестко
+accurate+точный
+elaborate+продуманный, тщательно сделанный
+fertile+плодородный
+mild+неострый, мягкий
+humble+смиренный
+yummy+вкусный
+mind-blowing+шокирующий, психоделический
+laced+зашнурованный
+petty+мелочный, мелкий
+unfree+несвободный
+severe+суровый, серьёзный
+farewell+прощальный, напутственный
+crucial+ключевой
+persistent+настойчивый, стойкий
+dependent+зависимый, подчиненный, служащий
+desirable+желательный
+approach+подход, приближение (гл. подходить, приближаться)
+nominate+выдвигать кандидата, выставлять кандидатуру
+out-there+сумасбродные
+phony+фейк
+fraud+мошенник
+gossip, whisperer+сплетник
+moron+придурок
+sweet-tooth+сладкоежка
+telltale+ябедник, выдающий, сигнальное устройство
+rapist+насильник
+repudiation+отречение, отказ от уплаты долга, развод мужем жене
+remiss+непростительно
+poorly+плохо, неудачно
+eve+канун, на кануне
+caveat+предостережение
+severity+строгость, суровость
+serenity+безмятежность
+displacement+вытеснение
+bias+смещение, предвзятость, необьективность
+splendor+великолепие, блеск
+surrender+сдача, капитуляция, отказ
+enquiry, inquiry+запрос на информацию, справка
+intercept+перехватить, переградить путь
+stave off+предотвращать
+spur on+мотивировать
+give up+сдаваться, отказываться, бросать
+calm down+успокоиться, успокаиваться
+settle down+приживаться, обосновываться
+obey+подчиниться, повиноваться
+rely+полагаться
+comply+соблюдать, исполнять просьбу
+deem+считать, полагать
+prey on+охотиться, пользоваться, играть (на)
+pinpoint+определять, засекать цель
+spin up+раскрутить
+strive+прилагать усилия, стараться
+retract+втягивать
+relieve+освобождать, облегчать
+haul+тянуть
+pour+литься, просочиться
+incorporate+включать в состав
+deserve+заслуживать, быть достойным
+eliminate+устранять, ликвидировать
+forbid+запрещать
+overwhelm+заваливать, сокрушать
+settle+селиться, поселить
+supress+подавлять
+vacate+освобождать
+rehearse+репетировать, спеваться
+bypass+обход (гл. обходить)
+presume+предполагать, позволять себе, осмеливаться
+chase+гнаться
+anticipate+предвидеть
+exceed+превышать
+distinguish+различать, выделить
+exalt+превозносить, возвышать
+brake into+взломать
+seize+схватить, ухватиться
+weigh+взвешивать
+suppose+предполагать
+chuckle+посмеиваться, хихикать
+impersonate+олицетворять, воплощать
+gasp+ловить воздух, открывать рот, ахать
+swallow+глотать
+indemnify+возмещать, компенсировать
+admit+признавать, допускать
+admire+восхищаться, любоваться
+evaluate+оценивать, определять качество
+subside+ослабевать, утихать, умолкнуть
+affix, attach+крепить
+bear, carry, possess+обладать
+reject+отклонять
+devote+посвятить, уделять
+lend+давать взаймы
+borrow+брать взаймы
+serve+обслуживать, подавать
+plead+умолять, отвечать на обвинение, приводить в оправдание
+chop+крошить
+hop+прыгать
+facilitate+облегчать, содействовать
+run into somebody+столкнуться с кем-то, вбежать
+treat+относится
+suffer+страдать, вытерпеть
+coverage+охват, зона действия, прикрытие
+claim+требовать, претендовать
+enforce+обеспечивать соблюдение, проводить в жизнь
+embrace+охватывать, обьятия/обнимать
+involve+вовлекать
+induce+побуждать
+compel+вынуждать, заставлять
+overwhelm+сокрушать, подавлять
+confront+противостоять
+undermine+подрывать
+pollute+загрязнять, поганить
+penalize+штрафовать
+afford+позволить себе, предоставить
+indeed+действительно, в самом деле
+behave+вести себя
+brew+заваривать
+sweep+подметать, мести
+sanitize+дезинфицировать
+expose+подвергать, разоблачать
+bake+выпекать, испечь
+familiarize+ознакомиться, делать хорошо известным
+incur+нести, подвергаться, навлечь на себя
+unfortunately+к сожалению, к несчастью
+abandon+отказаться от
+forfeit+лишаться, терять право, конфискованная вещь
+bow out+распрощаться, откланяться
+dabble+брызгаться, заниматься поверхностно/любительски
+appease+успокаивать, утолить
+mess it up+испортить это
+put it off+отложить это
+pounce+набрасываться, внезапно атаковать
+interfere+вмешиваться
+shed+проливать, лить
+diverge+расходиться
+endure+стойко переносить, терпеть
+defer+откладывать, отсрочивать, считаться с мнением
+convey+передавать, переправлять
+expect+ожидать
+experiencing+испытывать, ощущать
+perceive+воспринимать
+encourage+поощрять
+conclude+заключать
+mend+латать, штопать, чинить
+swear+клясться, материться
+pursue+преследовать, гнаться за
+insult+оскорблять, оскорбление
+resent+возмущаться, обижаться
+lurk+таиться, скрываться в засаде, оставаться незамеченным
+argue+спорить, аргументировать
+make-believe+притворяться
+hustle+толкаться
+tweak+щипать
+instantiate+иллюстрировать примерами
+reminisce+предаваться воспоминаниям
+decide+решать, принимать решение
+offer+предлагать, предложение
+exile+ссылать, сослать, изгнание, изгнанник
+augment+увеличивать, прибавлять
+strumble+спотыкаться, споткнуться
+cleansing+чистить, очищать
+persuade+убеждать, уговаривать
+fulfill+выполнять, исполнять
+to grin+усмехаться, ухмыляться
+to feel around+пощупать вокруг
+lean on+опираться на, оказывать давление
+consider+рассматривать, учитывать
+messing with+связываться с, тягаться с
+preach+проповедовать, поучать
+realize+понять, осознать
+winnow+веять, отсеивать
+tackle+энергично браться, схватить
+exhale+выдыхать
+occur+происходить, иметь место, случаться
+praise+хвалить, хвала
+seem+казаться, мерещиться
+carry+нести, носить, переносить
+bother+надоедать, докучать, беспокоить
+overnight+оставаться на ночь, всю ночь
+disturb+беспокоить
+govern+править, регулировать, руководить
+reign+царствовать, царить, царствование
+strain+напрягать, напрягаться, напряжение
+memorize+запоминать, выучить наизусть
+dignify+величать
+fell off+отваливаться, отпадать
+accuse+винить, обвинять
+drilldown+развернуть
+hassle+надоедать, докучать
+inflict +причинить
+hence+отсюда, следовательно
+inferiorly+книзу
+concurrent+параллельный, одновременный
+overlapping+перекрытие, дублирование
+consequence+следствие, последствие
+altering+изменяюще, меняющий
+retracting+убирание, брать назад
+mention+упоминание, упомянуть, ссылаться
+aforementioned+вышеупомянутый
+foregoing+вышеупомянутый, предшествующий
+denote+обозначать
+outperform+опережать, обгонять
+inferior+низший, нижележащий
+relevant+соответствующий, уместный
+since+поскольку, с тех пор, со времени, тому назад
+envy+зависть, завидовать
+extent+степень
+expense+расход
+undertaking+начинание, лавка гробовщика
+amendment+поправка к документу
+premises+предпосылки
+testify+давать показания
+consent+согласие
+tricky thing+хитрость
+collaborators+сотрудники
+proposals+предложения
+retain+хранить, удерживать
+interfere+вмешиваться, мешать
+remain+оставаться в/на прежнем месте (состоянии)
+toughness+прочность
+promptly+быстро, сразу
+disclosure+раскрытие
+designee+назначаемое
+scope+область видимости, сфера деятельности, обьем
+discretion+усмотрение
+prudence+благоразумие
+possession+владение, обладание
+caution+осторожность
+breakthrough+прорыв, крупное достижение (прорвать)
+berth+спальное место
+corporal punishment+телесное наказание
+flogging+порка
+entirely+целиком, нацело, сплошь
+straight+прямо, метко, прямой
+through+через
+though+хоть, хотя, однако
+thought+думал
+althrough+хотя, несмотря на
+against+против, вопреки
+among+среди
+however+однако
+thus+таким образом
+along+вдоль
+ahead+впереди
+beneath+ниже, под
+even+даже
+unless+пока не, если не
+mere+всего лишь, не более чем, сущий, простой
+merely+просто, только
+moreover+более того, кроме того
+meanwhile+тем временем
+hereto+к этому
+hereby+настоящим, этим
+therefor(e)+следовательно, поэтому
+thereafter+после этого, впоследствии
+contrary+вопреки
+whether+ли, будь то
+whenever+всякий раз когда, когда бы ни
+whatever+без разницы, любой, все равно
+whichever+какой бы ни, какой угодно
+within+в пределах, внутри
+whilst+в то время как, пока
+entire+весь, целый (день)
+afterwards+впоследствии, потом, позже
+formerly+раньше, прежде
+underneath+расположенный ниже
+throughout+на протяжении
+behalf of+от имени
+doggedly+упорно
+upstream+вверх по течению, против течения
+gratefully, thankfully+благодарно, с благодарностью
+certainly+безусловно, непременно
+gradually+постепенно
+purposely+намеренно, преднамеренно
+mainly+в основном, главным образом
+proper way+надлежащим образом
+properly, duly+должным образом, правильно, как следует
+improperly+неправильно
+substantially+по существу, в основном
+slightly+немного, слегка, чуть
+somehow+как-то, как-нибудь
+pursuant+в соответствии
+loosely+свободно
+immediately+немедленно
+blurry+размыто
+all confident+уверенно
+smartly+бойко, шибко
+rather than+скорее чем
+simultaneous(ly)+одновременно
+probably+вероятно
+inevitably+неизбежно, неминуемо
+concerning+относительно, касательно (касающийся)
+surely+точно, конечно, несомненно
+ultimately+в конечном счете, в конце концов
+appropriately+должным образом
+vice versa+наоборот, обратно
+repeatedly+неоднократно, повторно
+excessively+чрезмерно, излишне
+admittedly+по общему признанию/согласию
+arguably+спорно
+terribly+ужасно
+vigorously+энергично, решительно
+especially+особенно, особо
+intentionally+намеренно
+seldom+редко
+solely+исключительно, единственно
+outwardly+внешне, наружно, на вид
+quite+довольно, вполне, совсем, более или менее
+notably+заметно, особенно, в особенности
+entity+сущность
+facility+обьект
+universe+вселенная
+measure+мера, измерять, мериться
+faith+вера
+facilities+приспособления, сооружения
+hoist+подьемник, лебедка (гл. поднимать)
+envelope+конверт
+stationery+канцтовары
+blueprint+светокопия, проект, план
+chart+график
+wad+комок
+bunch+гроздь, связка, пучок
+doodad+штучка, штуковина
+backstage, offstage+пространство за сценой (за кулисами)
+novel+роман
+tips+чаевые
+dispositions+планы, распоряжения, приготовления
+gap+разрыв
+favor+одолжение
+fees+сборы
+cinch+нечто надежное/верное
+ugliness+уродство, безобразие
+flick+резкое движение, щелчок
+plenty+обилие, большое количество
+arrangement+договоренность
+scam+мошенничество
+surveillance+наблюдение
+afterthought+запоздалая мысль
+pretense+притворство
+conclusion+вывод, заключение
+perseverance+настойчивость
+threat+угроза
+satisfaction, gratification+удовлетворение
+aisle+проход (между рядами)
+oath+присяга
+provision+обеспечение, снабжение
+predecessor+предшественник
+shareholder+акционер
+tailor+портной
+approval+утверждение, одобрение
+breach+нарушение
+hatred+ненависть
+uniformity+единообразие
+vigor+энергия, сила
+brownie+домовой, девочка-скаут
+grizzle+седой человек, седина (гл. седеть)
+ivory+кремовый, цвета слоновой кости, светлый цвет кожи
+election+выборы, избрание
+authority+власть
+court+суд
+eligible+право
+sue+предьявить иск, подать в суд
+appeal+обжалование, апелляция
+invocation+вызов
+evidence+доказательства
+authority+власть, власти
+government+правительство
+murder+убийство
+embassy+посольство
+provisions+положения
+sip+глоток
+intercourse+общение, сношение
+accordance+соответствие
+decline+снижение, спад, падение
+termination+прекращение, окончание, конец
+butternut squash+суп пюре из тыквы (мускатной)
+shooting star+падающая звезда
+ongoing coverage+продолжающийся репортаж
+voter base+база избирателей
+hand basket+корзинка (для цветов, фруктов)
+mortgage+залог, ипотечная закладная
+GOP (Gods own party)+республиканская партия США
+convention room+зал заседаний
+sharia law+шариат
+verge+край, грань, предел
+seeker+искатель
+gold digger+золотоискатель
+benchmark+эталонный тест, поверочная точка, отметка уровня
+pair+пара, парный
+groove+звуковая канавка на виниловой пластинке 50-70х годов
+doom+гибель, страшный суд, приговор, обречение
+gloom+мрачность, унылость
+limerick+шуточное стихотворение
+glance+взгляд
+groan+тяжелый вздох, стон, оханье
+restraint+сдержанность
+lack, absence+отсутствие, недостаток
+pressure+давление
+widthrawal+изьятие
+imperfection+несовершенство
+invasion+вторжение, проникновение
+roundness+круглость, закругленность
+essence+сущность
+retreat+отступление
+intimidation+запугивание, устрашение
+testament+завещание
+effort+усилие
+effortlessly+без особых усилий
+breach+нарушение
+greed+жадность, алчность
+vengeance+мщение, месть
+sorcery+колдовство, волшебство
+equations+уравнения
+funding+финансирование
+worth+ценность, достоинства, стоимость
+guise+внешность
+patience+терпение
+decade+десятилетие
+controversy+полемика, противоречие
+controversial+спорный
+blame+вина (гл. обвинять)
+grinding+измельчение
+investigation+расследование
+objection+возражение, протест
+demand+спрос, требование
+demanding+требовательный
+both+оба, и то и другое
+so-called+так называемые
+treated in+рассмотренные в
+nitpicky+придирчиво
+preliminarily+предварительно
+decision+решение
+behaviour+поведение
+lack of ...+отсутствие (чего-либо)
+fatigue+усталость
+boredom+скука
+notion+понятие
+circumstance+обстоятельство
+exciting+захватывающе
+deal+сделка, иметь дело
+anxiety+тревога
+downtime+простой, бездействие
+mental+умственный
+smuggling+контрабанда, незаконный ввоз
+disaster+катастрофа, бедствие
+prejudices+предрассудки
+values+ценности
+concerns+беспокойства, заботы
+real estate+недвижимость
+fossils+ископаемые
+first-grade teacher+учитель первого класса
+cobble+булыжник
+proceeding+судебное разбирательство, продолжающийся (гл.)
+wuss+слабак
+perception+восприятие
+interchangeably+взаимозаменяемые
+judiciary+судебная система
+cargo+груз, грузовой
+insight+проницательность
+adoption+принятие, усыновление
+walkthrough+прохождение
+disrespect+неуважение
+remission+отпущение, освобождение от уплаты, смягчение приговора
+forgiveness+прощение
+mercy+милость, милосердие, пощада
+oblivion+забвение
+justice, fairness+справедливость
+oath+присяга, клятва
+conjunction+сочетание, соединение, пересечение дорог
+measurement+измерение, обмер
+surface+поверхность
+offence+правонарушение, проступок, преступление
+fine+штраф, штрафовать (гл.)
+clause+оговорка, пункт
+rumor+слух
+dignity+достоинство
+either ... or ...+или/или
+neither ... nor ...+ни/ни
+both ... and ...+и/и
+eye candy+красотка, нечто красивое
+sick him+фас (возьми его)
+that's odd+странно
+perfect match+идеальное сочетание
+perfect record+превосходная репутация
+crime scene+место преступления
+stay tuned+будьте на связи
+motive force+движущая сила
+dialing+набор тел. номера
+lunges+выпады (спорт, ногами)
+nudge+слегка подталкивать локтем (легкий толчок локтем)
+emphasize+подчеркивать, акцентировать, придавать особое значение
+abseiling+спуск на веревке
+drift apart+разойтись
+bummer+неприятное проишествие, облом, провал
+dunning+напоминание об уплате долга
+means of transportation+транспортное средство
+give a lift+подвезти
+cab+такси
+turn+повторот
+crossroad+перекресток
+traffic light+светофор
+pedestrian+пешеход
+subway+метро
+avenue+дорога, проспект
+itinerary+маршрут, путеводитель
+zebra-crossing+пешеходный переход
+bus shelter+автобусная остановка
+wiper blades+щетки стеклоочистителя
+coast, waterfront+берег
+countryside+сельская местность
+settlement+поселок, населенный пункт
+meadow+луг
+glade+поляна
+valley+долина
+shallow+мель, мелководье
+lowland+низменность
+suburban+житель пригорода, пригородный, дачный
+harbor+гавань
+ridge+хребет
+chapel+часовня
+dentistry+зубной
+goodies+добро
+wallet+бумажник
+bill+счет
+towel+полотенце
+spectacles, glasses+очки
+bra+бюстгальтер
+latch+защелка, задвижка (гл. запирать, запираться)
+peephole+глазок, смотровая щель
+clothes hanger+вешалка для одежды
+fuse+предохранитель
+filament+нить накала
+puppet+марионетка, кукла
+hoop+обруч
+diaper bag+сумка для пеленок
+chalk+мел
+gravy boat+соусница
+lipstick+губная помада
+luggage+багаж, багажный
+stepdad+отчим
+newphew+племянник
+acquaintance+знакомый, знакомство, ознакомление
+newlywed+новобрачный
+bridesmaid+подружка невесты
+napkin, doily+салфетка
+mug+кружка (харя, рыло)
+grub+вкусная еда
+bun+булочка
+pastry+кондитерские изделия
+cake+торт, пирожное
+churn+маслобойка, мешалка (гл. сбивать, взбалтывать, вспенивать)
+butter+сливочное масло
+batter+жидкое тесто, кляр (гл. долбить)
+stuffing+фарш, начинка
+fine-grained+мелкозернистый
+peas+горох
+legumes+бобовые
+lentils+чечевица
+dates+финики
+cantaloupes+мускусная дыня
+carrot+морковь
+waist+талия
+stomach+желудок
+ankle+лодыжка, щиколотка
+hump+горб, горбиться
+drawers+панталоны, подштанники
+gall+желчь
+rash+сыпь
+stroke+сердечный приступ
+fatigue+усталость
+irratability+раздражительность
+headaches+головные боли
+indigestion+расстройство желудка

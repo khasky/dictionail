@@ -1,0 +1,21 @@
+.dictio-nail {
+	position: fixed;
+	z-index: 65534;
+	text-align: center;
+	white-space: nowrap;
+	overflow: hidden;
+	transform: scale(0);
+	transition: opacity 0.1s, transform 0.2s;
+}
+
+.dictio-nail span {
+	padding: 2px 6px;
+	margin-left: 2px;
+	margin-right: 2px;
+	border-radius: 4px;
+	transition: background 0.15s;
+}
+
+.dictio-nail.visible {
+	transform: scale(1);
+}

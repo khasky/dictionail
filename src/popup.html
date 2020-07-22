@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+	body {
+		background: #f9f9f8;
+		font-size: 14px;
+	}
+	
+	input {
+		width: 50px;
+	}
+	
+	.wrapper {
+		width: 225px;
+	}
+	
+	.header {
+		text-align: center;
+	}
+	.separator {
+		width: 100%;
+		height: 1px;
+		background: #ccc;
+		margin-top: 7px;
+		margin-bottom: 7px;
+	}
+	.text-center {
+		text-align: center;
+	}
+	</style>
+	
+	<script src="popup.js"></script>
+</head>
+<body>
+	<div class="wrapper">
+		<div class="header">
+			DictioNail options
+		</div>
+		
+		<div class="separator"></div>
+		
+		Delay before show words
+		
+		<table>
+			<tr>
+				<td>from</td>
+				<td><input type="number" min="1" max="86400" id="min-show-delay"></td>
+				<td>to</td>
+				<td><input type="number" min="1" max="86400" id="max-show-delay"></td>
+				<td>sec</td>
+			</tr>
+		</table>
+		
+		Delay before hide words
+		<table>
+			<tr>
+				<td>from</td>
+				<td><input type="number" min="1" max="86400" id="min-hide-delay"></td>
+				<td>to</td>
+				<td><input type="number" min="1" max="86400" id="max-hide-delay"></td>
+				<td>sec</td>
+			</tr>
+		</table>
+		
+		Font
+		<table>
+			<tr>
+				<td>color</td>
+				<td><input type="text" id="font-color"></td>
+				<td>size</td>
+				<td><input type="number" min="10" max="48" id="font-size"></td>
+				<td>px</td>
+			</tr>
+		</table>
+		
+		Opacity
+		<input type="number" min="0" max="100" id="opacity">
+		
+		<p><button id="save">Save</button></p>
+	</div>
+</body>
+</html>
